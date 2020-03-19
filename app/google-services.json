@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "813326948056-jjfk828d0qk9ncpi2osjl42oloou9rrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.july.streetfighter",
+            "certificate_hash": "07ff307ee039d3f1dad996f28871ea81d9908171"
+          }
+        },
+        {
           "client_id": "813326948056-vafg9k69dihsrj9oqrhrho4hh26l6ksd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

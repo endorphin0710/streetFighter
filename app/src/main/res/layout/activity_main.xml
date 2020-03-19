@@ -9,7 +9,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/actionBar"
         android:layout_width="0dp"
-        android:layout_height="60dp"
+        android:layout_height="50dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -26,26 +26,15 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <ImageButton
-            android:id="@+id/imageButton"
+            android:id="@+id/btn_profile"
             android:layout_width="25dp"
             android:layout_height="25dp"
-            android:layout_marginStart="15dp"
-            android:background="@drawable/ic_menu"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/ic_user"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_menu" />
-
-        <Button
-            android:id="@+id/fighter_auth"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="사장님"
-            android:visibility="visible"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            tools:visibility="visible" />
+            app:srcCompat="@drawable/ic_user" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

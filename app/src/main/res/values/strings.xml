@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">스트리트파이터</string>
+    <string name="app_name">스트리트 파이터</string>
     <string name="kakao_app_key">91860d3fde2a9f549b2b8195bd927f7e</string>
+    <string name="user_id">user_id</string>
+    <string name="non_member">-1</string>
+    <string name="logout">-2</string>
 </resources>

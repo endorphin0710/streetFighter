@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813326948056",
+    "firebase_url": "https://streetfighter-60f62.firebaseio.com",
+    "project_id": "streetfighter-60f62",
+    "storage_bucket": "streetfighter-60f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813326948056:android:00e3593abc9bc647a369ad",
+        "android_client_info": {
+          "package_name": "com.july.streetfighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813326948056-vafg9k69dihsrj9oqrhrho4hh26l6ksd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.july.streetfighter",
+            "certificate_hash": "93fcfd86dd45814518961040569c214ae281d6df"
+          }
+        },
+        {
+          "client_id": "813326948056-7096ovu0iapioe6c63jfl8d37obomnmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTtdwyoLDqdI-XC46gaOQbj9UJVcCbCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813326948056-7096ovu0iapioe6c63jfl8d37obomnmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
